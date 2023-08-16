@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
